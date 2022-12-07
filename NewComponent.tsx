@@ -1,1 +1,1 @@
-const NewComponent = () => <div>test</div>
+const NewComponent = () => <div class='test-class'>test</div>
